@@ -1,11 +1,14 @@
 /*  your css code here. If applicable */
 .pt{
-	width:1100px;
+	width: 1100px;
+	border:1px solid black;
 }
 
 .wid{
-	width:200;
+	width: 200;
+	border:1px solid black;
 }
 .widd{
-	width:600;
+	width: 600;
+	border:1px solid black;
 }
